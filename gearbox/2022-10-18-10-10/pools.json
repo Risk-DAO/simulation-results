@@ -1,1 +1,1262 @@
-[object Object],[object Object],[object Object],[object Object],[object Object]
+[
+  {
+    "_id": "634e71dcd61d04b51de1dd0f",
+    "address": "0xfb422E503f8b768184ABA5e73587543d1C871A23",
+    "isWETH": false,
+    "underlying": "0x55a309598ABf543bF76FbB22859938ba2F29C2eA",
+    "dieselToken": "0x1726d8a1d3193D7C5A301Bb64b025cBD91BA791c",
+    "linearCumulativeIndex": "1000057885622210225775930846",
+    "availableLiquidity": "2620294278867733162887194",
+    "expectedLiquidity": "2821455701476533430236959",
+    "expectedLiquidityLimit": "3000000000000000000000000",
+    "totalBorrowed": "201154224414443955812991",
+    "depositAPY_RAY": "359446710182499872535589",
+    "borrowAPY_RAY": "5092644925582163357142857",
+    "dieselRate_RAY": "1000002701051486756667521763",
+    "withdrawFee": "100",
+    "cumulativeIndex_RAY": "1000057811980012746394310281",
+    "timestampLU": "1666084824",
+    "version": 1,
+    "creditManagers": [
+      {
+        "address": "0xf7Ba434952AcaA2e12035A2C3643Ca327914A470",
+        "feeInterest": 5000,
+        "feeLiquidation": 150,
+        "feeLiquidationExpired": 100,
+        "liquidationDiscount": 9600,
+        "liquidationDiscountExpired": 9800
+      }
+    ],
+    "UpdateData": {
+      "lastUpdate": 1666085304344,
+      "updater": "poolsDataFetcher",
+      "host": "ns3053947"
+    },
+    "allowedTokens": [
+      {
+        "tokenAddress": "0x55a309598ABf543bF76FbB22859938ba2F29C2eA",
+        "liquidationThreshold": 9450,
+        "recommendedLiquidationThreshold": 7673
+      },
+      {
+        "tokenAddress": "0x595DFFf822767c2E14CFB7D5e0b5a5e23eCfACdd",
+        "liquidationThreshold": 8500,
+        "recommendedLiquidationThreshold": 9171
+      },
+      {
+        "tokenAddress": "0xd628baa42b3080593a231016bF3F229161C9F745",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8833
+      },
+      {
+        "tokenAddress": "0x34852e54D9B4Ec4325C7344C28b584Ce972e5E62",
+        "liquidationThreshold": 8500,
+        "recommendedLiquidationThreshold": 7104
+      },
+      {
+        "tokenAddress": "0x1F2cd0D7E5a7d8fE41f886063E9F11A05dE217Fa",
+        "liquidationThreshold": 9200,
+        "recommendedLiquidationThreshold": 8327
+      },
+      {
+        "tokenAddress": "0xc81c248c44e96D85a0eCddc104843cE55B1ff35c",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x4F02e25531520709114e470f45A1Fb50862e3147",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7315
+      },
+      {
+        "tokenAddress": "0x92d43093959C7DDa89896418bCE9DE0B87879646",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8984
+      },
+      {
+        "tokenAddress": "0x50688e51B3941BFdf6a878F810dAF85bFc0657cf",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0xF1D178615E7BB6a7331EE73F84D5Ac6c95d8BC91",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9548
+      },
+      {
+        "tokenAddress": "0xf5c5e39F56fF90C0F63a97F3c77779eF495c1faD",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 6974
+      },
+      {
+        "tokenAddress": "0xF0258e3527726f641056a2F7DA08637a1d67422E",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 7717
+      },
+      {
+        "tokenAddress": "0xb2f394A64966a8892a43CcfBBD48D28bC58Aeb67",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9108
+      },
+      {
+        "tokenAddress": "0xe12bFD868a81D1AD147731D0eC164d9C4A397FCd",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9582
+      },
+      {
+        "tokenAddress": "0x12Ad3125C67eC5325Cc94AFdA8B26cd12BCe1E9b",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x17181501B6986CE1e4efD9A9Df9975aD24b0c543",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8722
+      },
+      {
+        "tokenAddress": "0x348B1846b87cA12D23A9A4E73B1CfAc2Aad49cf4",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0xD944F38aa81804313db028924Cf0695B26B67e6E",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0xC3d328CCA12347A31126d891D16fe8C5466625a5",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9051
+      },
+      {
+        "tokenAddress": "0xaB54a40e7Fd2aD82c07958BF6AA3395CEAb078b5",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9677
+      },
+      {
+        "tokenAddress": "0xbD919fcC47ae2b5Cc2fe646971aCcB1e88843DC5",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0xBA9e6B05b0F2C5B41Df2d56c0b1ddaFa03d53fed",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7292
+      },
+      {
+        "tokenAddress": "0xBE72A443c81Ca75B96039C68B335F1f8c6bA48E9",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8246
+      },
+      {
+        "tokenAddress": "0x68345E6C192f97A7334a96ceda94e2486c08Fa0c",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8118
+      },
+      {
+        "tokenAddress": "0xAAC67551F8d1D052E375BaCf774b494850BBca87",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x05724F02a0270F08E525F2681afA9173957c505e",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0xEe8Adf657c5EF8e10622b6B47014D2C6f6993E5E",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 6605
+      },
+      {
+        "tokenAddress": "0x683fcBf347b90C652b4B07648180C0b54c258815",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 9259
+      },
+      {
+        "tokenAddress": "0x2681AFa48aCFC2Ae5308bf6127d2fb563763f13E",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x43d45AEf2BAb5fa79e3bBDb2dB7E4443B8123C8f",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x6D75eb70402CF06a0cB5B8fdc1836dAe29702B17",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2600
+      },
+      {
+        "tokenAddress": "0x34C035818Dd308f3aC20e68bC03C3E4FC8924d9d",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2001
+      },
+      {
+        "tokenAddress": "0x7f5E8e47d982052bD6A1CA26551b80821802847d",
+        "liquidationThreshold": 1,
+        "recommendedLiquidationThreshold": 1
+      },
+      {
+        "tokenAddress": "0x976d27eC7ebb1136cd7770F5e06aC917Aa9C672b",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2645
+      },
+      {
+        "tokenAddress": "0x13781b54cd88cC115a17Db53b058706B29FaD341",
+        "liquidationThreshold": 1,
+        "recommendedLiquidationThreshold": 1
+      },
+      {
+        "tokenAddress": "0x293177E8F7DEA75e44C6799e975A42222cBB326B",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2579
+      },
+      {
+        "tokenAddress": "0x6fd7C6c0362E836eab644fD1E1D09a9e3836e62C",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9701
+      },
+      {
+        "tokenAddress": "0x84c04976BA15AE880B8D6daC9CE1075D0eFD0d4D",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x6Ca199719B8d6b8406387DC18a29eC13dD725Ed6",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x49416516604eF33383Bd9F3a94fEcd4ee36E2d88",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7757
+      },
+      {
+        "tokenAddress": "0xEB763389772eA09eddFcfed3EC571Bb20c187763",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x6784ED28285ECd58F76f3A85F39A293E15080964",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9635
+      },
+      {
+        "tokenAddress": "0x3AE88c07D9A9b48706d7ea197aD53d30578ACdA1",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 7986
+      }
+    ]
+  },
+  {
+    "_id": "634e71dcd61d04b51de1dd10",
+    "address": "0x7c14C88f672d5513C8fa640fA48815f40c781a60",
+    "isWETH": false,
+    "underlying": "0x1F2cd0D7E5a7d8fE41f886063E9F11A05dE217Fa",
+    "dieselToken": "0x5bBDBDa8cE49B152ae48FB37F2397A5EBF35d59C",
+    "linearCumulativeIndex": "1000064805298778108147966350",
+    "availableLiquidity": "1893692334099",
+    "expectedLiquidity": "2084456880369",
+    "expectedLiquidityLimit": "3000000000000",
+    "totalBorrowed": "190757033478",
+    "depositAPY_RAY": "592242114005770098697467",
+    "borrowAPY_RAY": "6536969334388799357142857",
+    "dieselRate_RAY": "1000005428910303484269862826",
+    "withdrawFee": "100",
+    "cumulativeIndex_RAY": "1000064133649267071775296620",
+    "timestampLU": "1666082052",
+    "version": 1,
+    "creditManagers": [
+      {
+        "address": "0x2144A7785BAECBAb32295188285717caD6C1a11c",
+        "feeInterest": 5000,
+        "feeLiquidation": 150,
+        "feeLiquidationExpired": 100,
+        "liquidationDiscount": 9600,
+        "liquidationDiscountExpired": 9800
+      }
+    ],
+    "UpdateData": {
+      "lastUpdate": 1666085314446,
+      "updater": "poolsDataFetcher",
+      "host": "ns3053947"
+    },
+    "allowedTokens": [
+      {
+        "tokenAddress": "0x1F2cd0D7E5a7d8fE41f886063E9F11A05dE217Fa",
+        "liquidationThreshold": 9450,
+        "recommendedLiquidationThreshold": 8679
+      },
+      {
+        "tokenAddress": "0x595DFFf822767c2E14CFB7D5e0b5a5e23eCfACdd",
+        "liquidationThreshold": 8500,
+        "recommendedLiquidationThreshold": 7307
+      },
+      {
+        "tokenAddress": "0xd628baa42b3080593a231016bF3F229161C9F745",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8774
+      },
+      {
+        "tokenAddress": "0x34852e54D9B4Ec4325C7344C28b584Ce972e5E62",
+        "liquidationThreshold": 8500,
+        "recommendedLiquidationThreshold": 9161
+      },
+      {
+        "tokenAddress": "0x55a309598ABf543bF76FbB22859938ba2F29C2eA",
+        "liquidationThreshold": 9200,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0xc81c248c44e96D85a0eCddc104843cE55B1ff35c",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x4F02e25531520709114e470f45A1Fb50862e3147",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7229
+      },
+      {
+        "tokenAddress": "0x92d43093959C7DDa89896418bCE9DE0B87879646",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8143
+      },
+      {
+        "tokenAddress": "0x50688e51B3941BFdf6a878F810dAF85bFc0657cf",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9286
+      },
+      {
+        "tokenAddress": "0xF1D178615E7BB6a7331EE73F84D5Ac6c95d8BC91",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0xf5c5e39F56fF90C0F63a97F3c77779eF495c1faD",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 7583
+      },
+      {
+        "tokenAddress": "0xF0258e3527726f641056a2F7DA08637a1d67422E",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8055
+      },
+      {
+        "tokenAddress": "0xb2f394A64966a8892a43CcfBBD48D28bC58Aeb67",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8556
+      },
+      {
+        "tokenAddress": "0xe12bFD868a81D1AD147731D0eC164d9C4A397FCd",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x12Ad3125C67eC5325Cc94AFdA8B26cd12BCe1E9b",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7320
+      },
+      {
+        "tokenAddress": "0x17181501B6986CE1e4efD9A9Df9975aD24b0c543",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x348B1846b87cA12D23A9A4E73B1CfAc2Aad49cf4",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8341
+      },
+      {
+        "tokenAddress": "0xD944F38aa81804313db028924Cf0695B26B67e6E",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7248
+      },
+      {
+        "tokenAddress": "0xC3d328CCA12347A31126d891D16fe8C5466625a5",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9740
+      },
+      {
+        "tokenAddress": "0xaB54a40e7Fd2aD82c07958BF6AA3395CEAb078b5",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8191
+      },
+      {
+        "tokenAddress": "0xbD919fcC47ae2b5Cc2fe646971aCcB1e88843DC5",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0xBA9e6B05b0F2C5B41Df2d56c0b1ddaFa03d53fed",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0xBE72A443c81Ca75B96039C68B335F1f8c6bA48E9",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8755
+      },
+      {
+        "tokenAddress": "0x68345E6C192f97A7334a96ceda94e2486c08Fa0c",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7687
+      },
+      {
+        "tokenAddress": "0xAAC67551F8d1D052E375BaCf774b494850BBca87",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x05724F02a0270F08E525F2681afA9173957c505e",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7767
+      },
+      {
+        "tokenAddress": "0xEe8Adf657c5EF8e10622b6B47014D2C6f6993E5E",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 9482
+      },
+      {
+        "tokenAddress": "0x683fcBf347b90C652b4B07648180C0b54c258815",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 7559
+      },
+      {
+        "tokenAddress": "0x2681AFa48aCFC2Ae5308bf6127d2fb563763f13E",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 9088
+      },
+      {
+        "tokenAddress": "0x43d45AEf2BAb5fa79e3bBDb2dB7E4443B8123C8f",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7963
+      },
+      {
+        "tokenAddress": "0x6D75eb70402CF06a0cB5B8fdc1836dAe29702B17",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2624
+      },
+      {
+        "tokenAddress": "0x34C035818Dd308f3aC20e68bC03C3E4FC8924d9d",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2448
+      },
+      {
+        "tokenAddress": "0x7f5E8e47d982052bD6A1CA26551b80821802847d",
+        "liquidationThreshold": 1,
+        "recommendedLiquidationThreshold": 1
+      },
+      {
+        "tokenAddress": "0x976d27eC7ebb1136cd7770F5e06aC917Aa9C672b",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2039
+      },
+      {
+        "tokenAddress": "0x13781b54cd88cC115a17Db53b058706B29FaD341",
+        "liquidationThreshold": 1,
+        "recommendedLiquidationThreshold": 1
+      },
+      {
+        "tokenAddress": "0x293177E8F7DEA75e44C6799e975A42222cBB326B",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2589
+      },
+      {
+        "tokenAddress": "0x6fd7C6c0362E836eab644fD1E1D09a9e3836e62C",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8064
+      },
+      {
+        "tokenAddress": "0x84c04976BA15AE880B8D6daC9CE1075D0eFD0d4D",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8204
+      },
+      {
+        "tokenAddress": "0x6Ca199719B8d6b8406387DC18a29eC13dD725Ed6",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9099
+      },
+      {
+        "tokenAddress": "0x49416516604eF33383Bd9F3a94fEcd4ee36E2d88",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8536
+      },
+      {
+        "tokenAddress": "0xEB763389772eA09eddFcfed3EC571Bb20c187763",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8219
+      },
+      {
+        "tokenAddress": "0x6784ED28285ECd58F76f3A85F39A293E15080964",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8742
+      },
+      {
+        "tokenAddress": "0x3AE88c07D9A9b48706d7ea197aD53d30578ACdA1",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8684
+      }
+    ]
+  },
+  {
+    "_id": "634e71dcd61d04b51de1dd11",
+    "address": "0x13376d637dEd73a0df20D192F691a88c8aF7DD0A",
+    "isWETH": true,
+    "underlying": "0x595DFFf822767c2E14CFB7D5e0b5a5e23eCfACdd",
+    "dieselToken": "0xfb906E19E71ED61bcb5eA0E11d77941A058eafBD",
+    "linearCumulativeIndex": "1001190152010116354965686584",
+    "availableLiquidity": "318568149977400189921",
+    "expectedLiquidity": "600495288172120880466",
+    "expectedLiquidityLimit": "600000000000000000000",
+    "totalBorrowed": "281868591926259510175",
+    "depositAPY_RAY": "12466972422181610849326837",
+    "borrowAPY_RAY": "26828026228054407028571428",
+    "dieselRate_RAY": "1000783863433540090819002841",
+    "withdrawFee": "100",
+    "cumulativeIndex_RAY": "1001187944347396067528615002",
+    "timestampLU": "1666082700",
+    "version": 1,
+    "creditManagers": [
+      {
+        "address": "0x2aD4A2f1BDd815E285a22CDCc072FbB43818b09b",
+        "feeInterest": 5000,
+        "feeLiquidation": 150,
+        "feeLiquidationExpired": 100,
+        "liquidationDiscount": 9600,
+        "liquidationDiscountExpired": 9800
+      }
+    ],
+    "UpdateData": {
+      "lastUpdate": 1666085322721,
+      "updater": "poolsDataFetcher",
+      "host": "ns3053947"
+    },
+    "allowedTokens": [
+      {
+        "tokenAddress": "0x595DFFf822767c2E14CFB7D5e0b5a5e23eCfACdd",
+        "liquidationThreshold": 9450,
+        "recommendedLiquidationThreshold": 7595
+      },
+      {
+        "tokenAddress": "0xd628baa42b3080593a231016bF3F229161C9F745",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x34852e54D9B4Ec4325C7344C28b584Ce972e5E62",
+        "liquidationThreshold": 8500,
+        "recommendedLiquidationThreshold": 8416
+      },
+      {
+        "tokenAddress": "0x1F2cd0D7E5a7d8fE41f886063E9F11A05dE217Fa",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 7601
+      },
+      {
+        "tokenAddress": "0x55a309598ABf543bF76FbB22859938ba2F29C2eA",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 7546
+      },
+      {
+        "tokenAddress": "0xc81c248c44e96D85a0eCddc104843cE55B1ff35c",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 6747
+      },
+      {
+        "tokenAddress": "0x4F02e25531520709114e470f45A1Fb50862e3147",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 9098
+      },
+      {
+        "tokenAddress": "0x92d43093959C7DDa89896418bCE9DE0B87879646",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8545
+      },
+      {
+        "tokenAddress": "0x50688e51B3941BFdf6a878F810dAF85bFc0657cf",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 9565
+      },
+      {
+        "tokenAddress": "0xF1D178615E7BB6a7331EE73F84D5Ac6c95d8BC91",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 7673
+      },
+      {
+        "tokenAddress": "0xf5c5e39F56fF90C0F63a97F3c77779eF495c1faD",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9188
+      },
+      {
+        "tokenAddress": "0xF0258e3527726f641056a2F7DA08637a1d67422E",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8035
+      },
+      {
+        "tokenAddress": "0xb2f394A64966a8892a43CcfBBD48D28bC58Aeb67",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8522
+      },
+      {
+        "tokenAddress": "0xe12bFD868a81D1AD147731D0eC164d9C4A397FCd",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7536
+      },
+      {
+        "tokenAddress": "0x12Ad3125C67eC5325Cc94AFdA8B26cd12BCe1E9b",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 6478
+      },
+      {
+        "tokenAddress": "0x17181501B6986CE1e4efD9A9Df9975aD24b0c543",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7197
+      },
+      {
+        "tokenAddress": "0x348B1846b87cA12D23A9A4E73B1CfAc2Aad49cf4",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 6930
+      },
+      {
+        "tokenAddress": "0xD944F38aa81804313db028924Cf0695B26B67e6E",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7349
+      },
+      {
+        "tokenAddress": "0xC3d328CCA12347A31126d891D16fe8C5466625a5",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7972
+      },
+      {
+        "tokenAddress": "0xaB54a40e7Fd2aD82c07958BF6AA3395CEAb078b5",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8428
+      },
+      {
+        "tokenAddress": "0xbD919fcC47ae2b5Cc2fe646971aCcB1e88843DC5",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8414
+      },
+      {
+        "tokenAddress": "0xBA9e6B05b0F2C5B41Df2d56c0b1ddaFa03d53fed",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8495
+      },
+      {
+        "tokenAddress": "0xBE72A443c81Ca75B96039C68B335F1f8c6bA48E9",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7572
+      },
+      {
+        "tokenAddress": "0x68345E6C192f97A7334a96ceda94e2486c08Fa0c",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 6535
+      },
+      {
+        "tokenAddress": "0xAAC67551F8d1D052E375BaCf774b494850BBca87",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8068
+      },
+      {
+        "tokenAddress": "0x05724F02a0270F08E525F2681afA9173957c505e",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8515
+      },
+      {
+        "tokenAddress": "0xEe8Adf657c5EF8e10622b6B47014D2C6f6993E5E",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9132
+      },
+      {
+        "tokenAddress": "0x683fcBf347b90C652b4B07648180C0b54c258815",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8903
+      },
+      {
+        "tokenAddress": "0x2681AFa48aCFC2Ae5308bf6127d2fb563763f13E",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x43d45AEf2BAb5fa79e3bBDb2dB7E4443B8123C8f",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8321
+      },
+      {
+        "tokenAddress": "0x6D75eb70402CF06a0cB5B8fdc1836dAe29702B17",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2713
+      },
+      {
+        "tokenAddress": "0x34C035818Dd308f3aC20e68bC03C3E4FC8924d9d",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2558
+      },
+      {
+        "tokenAddress": "0x7f5E8e47d982052bD6A1CA26551b80821802847d",
+        "liquidationThreshold": 1,
+        "recommendedLiquidationThreshold": 1
+      },
+      {
+        "tokenAddress": "0x976d27eC7ebb1136cd7770F5e06aC917Aa9C672b",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2508
+      },
+      {
+        "tokenAddress": "0x13781b54cd88cC115a17Db53b058706B29FaD341",
+        "liquidationThreshold": 1,
+        "recommendedLiquidationThreshold": 1
+      },
+      {
+        "tokenAddress": "0x293177E8F7DEA75e44C6799e975A42222cBB326B",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2572
+      },
+      {
+        "tokenAddress": "0x6fd7C6c0362E836eab644fD1E1D09a9e3836e62C",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7791
+      },
+      {
+        "tokenAddress": "0x84c04976BA15AE880B8D6daC9CE1075D0eFD0d4D",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8926
+      },
+      {
+        "tokenAddress": "0x6Ca199719B8d6b8406387DC18a29eC13dD725Ed6",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 6886
+      },
+      {
+        "tokenAddress": "0x49416516604eF33383Bd9F3a94fEcd4ee36E2d88",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7997
+      },
+      {
+        "tokenAddress": "0xEB763389772eA09eddFcfed3EC571Bb20c187763",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8175
+      },
+      {
+        "tokenAddress": "0x6784ED28285ECd58F76f3A85F39A293E15080964",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8014
+      },
+      {
+        "tokenAddress": "0x3AE88c07D9A9b48706d7ea197aD53d30578ACdA1",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 9464
+      }
+    ]
+  },
+  {
+    "_id": "634e71dcd61d04b51de1dd12",
+    "address": "0x3F926a46893AF659C2768f118D5F189190bAA15C",
+    "isWETH": false,
+    "underlying": "0x34852e54D9B4Ec4325C7344C28b584Ce972e5E62",
+    "dieselToken": "0xd7f208de8d5b5301e7018dcc6D312A4305382330",
+    "linearCumulativeIndex": "1000026341602234404257813699",
+    "availableLiquidity": "4824928150",
+    "expectedLiquidity": "5000003522",
+    "expectedLiquidityLimit": "5000000000",
+    "totalBorrowed": "175072410",
+    "depositAPY_RAY": "69358430206971206851539",
+    "borrowAPY_RAY": "2000859808425673714285714",
+    "dieselRate_RAY": "1000000667399975306200913670",
+    "withdrawFee": "100",
+    "cumulativeIndex_RAY": "1000026248713610329883894781",
+    "timestampLU": "1666083852",
+    "version": 1,
+    "creditManagers": [
+      {
+        "address": "0x6546DD4E8D507E3e45Bb924818C0bad2A3Aa2C5f",
+        "feeInterest": 5000,
+        "feeLiquidation": 150,
+        "feeLiquidationExpired": 100,
+        "liquidationDiscount": 9600,
+        "liquidationDiscountExpired": 9800
+      }
+    ],
+    "UpdateData": {
+      "lastUpdate": 1666085331063,
+      "updater": "poolsDataFetcher",
+      "host": "ns3053947"
+    },
+    "allowedTokens": [
+      {
+        "tokenAddress": "0x34852e54D9B4Ec4325C7344C28b584Ce972e5E62",
+        "liquidationThreshold": 9450,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x595DFFf822767c2E14CFB7D5e0b5a5e23eCfACdd",
+        "liquidationThreshold": 8500,
+        "recommendedLiquidationThreshold": 8257
+      },
+      {
+        "tokenAddress": "0xd628baa42b3080593a231016bF3F229161C9F745",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8024
+      },
+      {
+        "tokenAddress": "0x1F2cd0D7E5a7d8fE41f886063E9F11A05dE217Fa",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8296
+      },
+      {
+        "tokenAddress": "0x55a309598ABf543bF76FbB22859938ba2F29C2eA",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 9423
+      },
+      {
+        "tokenAddress": "0xc81c248c44e96D85a0eCddc104843cE55B1ff35c",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 7718
+      },
+      {
+        "tokenAddress": "0x4F02e25531520709114e470f45A1Fb50862e3147",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 7048
+      },
+      {
+        "tokenAddress": "0x92d43093959C7DDa89896418bCE9DE0B87879646",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 7239
+      },
+      {
+        "tokenAddress": "0x50688e51B3941BFdf6a878F810dAF85bFc0657cf",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8300
+      },
+      {
+        "tokenAddress": "0xF1D178615E7BB6a7331EE73F84D5Ac6c95d8BC91",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 9555
+      },
+      {
+        "tokenAddress": "0xf5c5e39F56fF90C0F63a97F3c77779eF495c1faD",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8844
+      },
+      {
+        "tokenAddress": "0xF0258e3527726f641056a2F7DA08637a1d67422E",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8253
+      },
+      {
+        "tokenAddress": "0xb2f394A64966a8892a43CcfBBD48D28bC58Aeb67",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9150
+      },
+      {
+        "tokenAddress": "0xe12bFD868a81D1AD147731D0eC164d9C4A397FCd",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7218
+      },
+      {
+        "tokenAddress": "0x12Ad3125C67eC5325Cc94AFdA8B26cd12BCe1E9b",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9099
+      },
+      {
+        "tokenAddress": "0x17181501B6986CE1e4efD9A9Df9975aD24b0c543",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8081
+      },
+      {
+        "tokenAddress": "0x348B1846b87cA12D23A9A4E73B1CfAc2Aad49cf4",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8916
+      },
+      {
+        "tokenAddress": "0xD944F38aa81804313db028924Cf0695B26B67e6E",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8554
+      },
+      {
+        "tokenAddress": "0xC3d328CCA12347A31126d891D16fe8C5466625a5",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 6919
+      },
+      {
+        "tokenAddress": "0xaB54a40e7Fd2aD82c07958BF6AA3395CEAb078b5",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8875
+      },
+      {
+        "tokenAddress": "0xbD919fcC47ae2b5Cc2fe646971aCcB1e88843DC5",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9154
+      },
+      {
+        "tokenAddress": "0xBA9e6B05b0F2C5B41Df2d56c0b1ddaFa03d53fed",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9406
+      },
+      {
+        "tokenAddress": "0xBE72A443c81Ca75B96039C68B335F1f8c6bA48E9",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8554
+      },
+      {
+        "tokenAddress": "0x68345E6C192f97A7334a96ceda94e2486c08Fa0c",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 6437
+      },
+      {
+        "tokenAddress": "0xAAC67551F8d1D052E375BaCf774b494850BBca87",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9002
+      },
+      {
+        "tokenAddress": "0x05724F02a0270F08E525F2681afA9173957c505e",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 6607
+      },
+      {
+        "tokenAddress": "0xEe8Adf657c5EF8e10622b6B47014D2C6f6993E5E",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8558
+      },
+      {
+        "tokenAddress": "0x683fcBf347b90C652b4B07648180C0b54c258815",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7714
+      },
+      {
+        "tokenAddress": "0x2681AFa48aCFC2Ae5308bf6127d2fb563763f13E",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8925
+      },
+      {
+        "tokenAddress": "0x43d45AEf2BAb5fa79e3bBDb2dB7E4443B8123C8f",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 6708
+      },
+      {
+        "tokenAddress": "0x6D75eb70402CF06a0cB5B8fdc1836dAe29702B17",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2429
+      },
+      {
+        "tokenAddress": "0x34C035818Dd308f3aC20e68bC03C3E4FC8924d9d",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2120
+      },
+      {
+        "tokenAddress": "0x7f5E8e47d982052bD6A1CA26551b80821802847d",
+        "liquidationThreshold": 1,
+        "recommendedLiquidationThreshold": 1
+      },
+      {
+        "tokenAddress": "0x976d27eC7ebb1136cd7770F5e06aC917Aa9C672b",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2274
+      },
+      {
+        "tokenAddress": "0x13781b54cd88cC115a17Db53b058706B29FaD341",
+        "liquidationThreshold": 1,
+        "recommendedLiquidationThreshold": 1
+      },
+      {
+        "tokenAddress": "0x293177E8F7DEA75e44C6799e975A42222cBB326B",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2910
+      },
+      {
+        "tokenAddress": "0x6fd7C6c0362E836eab644fD1E1D09a9e3836e62C",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8783
+      },
+      {
+        "tokenAddress": "0x84c04976BA15AE880B8D6daC9CE1075D0eFD0d4D",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8887
+      },
+      {
+        "tokenAddress": "0x6Ca199719B8d6b8406387DC18a29eC13dD725Ed6",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 6408
+      },
+      {
+        "tokenAddress": "0x49416516604eF33383Bd9F3a94fEcd4ee36E2d88",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9393
+      },
+      {
+        "tokenAddress": "0xEB763389772eA09eddFcfed3EC571Bb20c187763",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9193
+      },
+      {
+        "tokenAddress": "0x6784ED28285ECd58F76f3A85F39A293E15080964",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9321
+      },
+      {
+        "tokenAddress": "0x3AE88c07D9A9b48706d7ea197aD53d30578ACdA1",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 7740
+      }
+    ]
+  },
+  {
+    "_id": "634e71dcd61d04b51de1dd13",
+    "address": "0xBDF0395fa6f134B8DE35Ef30c61B2B9711CBD67A",
+    "isWETH": false,
+    "underlying": "0x5E590e6c887A84098F3fa465267a44AaE058eBbb",
+    "dieselToken": "0xAB20D04aF0f79aB21cC66431F6BAc03b74003d4d",
+    "linearCumulativeIndex": "1000032292867750365311355134",
+    "availableLiquidity": "176604285569341474898",
+    "expectedLiquidity": "204881050508389331609",
+    "expectedLiquidityLimit": "10000000000000000000000",
+    "totalBorrowed": "28276230547821806617",
+    "depositAPY_RAY": "332778391814293277714736",
+    "borrowAPY_RAY": "2435567679973077441176470",
+    "dieselRate_RAY": "1000002833859417541897469882",
+    "withdrawFee": "100",
+    "cumulativeIndex_RAY": "1000032131603521549385586086",
+    "timestampLU": "1666083240",
+    "version": 1,
+    "creditManagers": [
+      {
+        "address": "0x40D542A5c15b2C0C65af047984c285c2c30847AF",
+        "feeInterest": 5000,
+        "feeLiquidation": 150,
+        "feeLiquidationExpired": 100,
+        "liquidationDiscount": 9600,
+        "liquidationDiscountExpired": 9800
+      }
+    ],
+    "UpdateData": {
+      "lastUpdate": 1666085339143,
+      "updater": "poolsDataFetcher",
+      "host": "ns3053947"
+    },
+    "allowedTokens": [
+      {
+        "tokenAddress": "0x5E590e6c887A84098F3fa465267a44AaE058eBbb",
+        "liquidationThreshold": 9450,
+        "recommendedLiquidationThreshold": 8356
+      },
+      {
+        "tokenAddress": "0xd628baa42b3080593a231016bF3F229161C9F745",
+        "liquidationThreshold": 9450,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0x595DFFf822767c2E14CFB7D5e0b5a5e23eCfACdd",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8972
+      },
+      {
+        "tokenAddress": "0x34852e54D9B4Ec4325C7344C28b584Ce972e5E62",
+        "liquidationThreshold": 8500,
+        "recommendedLiquidationThreshold": 9739
+      },
+      {
+        "tokenAddress": "0x1F2cd0D7E5a7d8fE41f886063E9F11A05dE217Fa",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 9367
+      },
+      {
+        "tokenAddress": "0x55a309598ABf543bF76FbB22859938ba2F29C2eA",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8782
+      },
+      {
+        "tokenAddress": "0xc81c248c44e96D85a0eCddc104843cE55B1ff35c",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8664
+      },
+      {
+        "tokenAddress": "0x4F02e25531520709114e470f45A1Fb50862e3147",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 9611
+      },
+      {
+        "tokenAddress": "0x92d43093959C7DDa89896418bCE9DE0B87879646",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 6740
+      },
+      {
+        "tokenAddress": "0x50688e51B3941BFdf6a878F810dAF85bFc0657cf",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 9800
+      },
+      {
+        "tokenAddress": "0xF1D178615E7BB6a7331EE73F84D5Ac6c95d8BC91",
+        "liquidationThreshold": 8250,
+        "recommendedLiquidationThreshold": 8487
+      },
+      {
+        "tokenAddress": "0xb2f394A64966a8892a43CcfBBD48D28bC58Aeb67",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7734
+      },
+      {
+        "tokenAddress": "0xe12bFD868a81D1AD147731D0eC164d9C4A397FCd",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8203
+      },
+      {
+        "tokenAddress": "0xBE72A443c81Ca75B96039C68B335F1f8c6bA48E9",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7845
+      },
+      {
+        "tokenAddress": "0x68345E6C192f97A7334a96ceda94e2486c08Fa0c",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 6861
+      },
+      {
+        "tokenAddress": "0xf5c5e39F56fF90C0F63a97F3c77779eF495c1faD",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8023
+      },
+      {
+        "tokenAddress": "0xF0258e3527726f641056a2F7DA08637a1d67422E",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7437
+      },
+      {
+        "tokenAddress": "0x12Ad3125C67eC5325Cc94AFdA8B26cd12BCe1E9b",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9186
+      },
+      {
+        "tokenAddress": "0x17181501B6986CE1e4efD9A9Df9975aD24b0c543",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8094
+      },
+      {
+        "tokenAddress": "0xC3d328CCA12347A31126d891D16fe8C5466625a5",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8596
+      },
+      {
+        "tokenAddress": "0xaB54a40e7Fd2aD82c07958BF6AA3395CEAb078b5",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9028
+      },
+      {
+        "tokenAddress": "0x348B1846b87cA12D23A9A4E73B1CfAc2Aad49cf4",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8480
+      },
+      {
+        "tokenAddress": "0xD944F38aa81804313db028924Cf0695B26B67e6E",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8807
+      },
+      {
+        "tokenAddress": "0xbD919fcC47ae2b5Cc2fe646971aCcB1e88843DC5",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8751
+      },
+      {
+        "tokenAddress": "0xBA9e6B05b0F2C5B41Df2d56c0b1ddaFa03d53fed",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7855
+      },
+      {
+        "tokenAddress": "0xAAC67551F8d1D052E375BaCf774b494850BBca87",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7143
+      },
+      {
+        "tokenAddress": "0x05724F02a0270F08E525F2681afA9173957c505e",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7790
+      },
+      {
+        "tokenAddress": "0xEe8Adf657c5EF8e10622b6B47014D2C6f6993E5E",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7363
+      },
+      {
+        "tokenAddress": "0x683fcBf347b90C652b4B07648180C0b54c258815",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9510
+      },
+      {
+        "tokenAddress": "0x2681AFa48aCFC2Ae5308bf6127d2fb563763f13E",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 7718
+      },
+      {
+        "tokenAddress": "0x43d45AEf2BAb5fa79e3bBDb2dB7E4443B8123C8f",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9278
+      },
+      {
+        "tokenAddress": "0x6D75eb70402CF06a0cB5B8fdc1836dAe29702B17",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2312
+      },
+      {
+        "tokenAddress": "0x34C035818Dd308f3aC20e68bC03C3E4FC8924d9d",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2623
+      },
+      {
+        "tokenAddress": "0x7f5E8e47d982052bD6A1CA26551b80821802847d",
+        "liquidationThreshold": 1,
+        "recommendedLiquidationThreshold": 1
+      },
+      {
+        "tokenAddress": "0x976d27eC7ebb1136cd7770F5e06aC917Aa9C672b",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2499
+      },
+      {
+        "tokenAddress": "0x13781b54cd88cC115a17Db53b058706B29FaD341",
+        "liquidationThreshold": 1,
+        "recommendedLiquidationThreshold": 1
+      },
+      {
+        "tokenAddress": "0x293177E8F7DEA75e44C6799e975A42222cBB326B",
+        "liquidationThreshold": 2500,
+        "recommendedLiquidationThreshold": 2842
+      },
+      {
+        "tokenAddress": "0x6fd7C6c0362E836eab644fD1E1D09a9e3836e62C",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9000
+      },
+      {
+        "tokenAddress": "0x84c04976BA15AE880B8D6daC9CE1075D0eFD0d4D",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 6972
+      },
+      {
+        "tokenAddress": "0x6Ca199719B8d6b8406387DC18a29eC13dD725Ed6",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9154
+      },
+      {
+        "tokenAddress": "0x49416516604eF33383Bd9F3a94fEcd4ee36E2d88",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 7050
+      },
+      {
+        "tokenAddress": "0xEB763389772eA09eddFcfed3EC571Bb20c187763",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 9513
+      },
+      {
+        "tokenAddress": "0x6784ED28285ECd58F76f3A85F39A293E15080964",
+        "liquidationThreshold": 8000,
+        "recommendedLiquidationThreshold": 8626
+      },
+      {
+        "tokenAddress": "0x3AE88c07D9A9b48706d7ea197aD53d30578ACdA1",
+        "liquidationThreshold": 9000,
+        "recommendedLiquidationThreshold": 8400
+      }
+    ]
+  }
+]
