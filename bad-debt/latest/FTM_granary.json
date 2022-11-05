@@ -1,1 +1,1 @@
-{"total":"0","updated":"1667616768","decimals":"18","users":[],"tvl":"26868695357564300000000","deposits":"29679795764698100000000","borrows":"2811100407133800000000","calculatedBorrows":"0"}
+{"total":"-3298904300000000","updated":"1667616900","decimals":"18","users":[{"user":"0x2cD3d676F4C53D645aa523cadBf00BA049f4E8eB","badDebt":"-17756200000000"},{"user":"0xaa7B0a1efD187173dFa168520a9169a956F7c032","badDebt":"-3281148100000000"}],"tvl":"27513369962112400000000","deposits":"30418474652590800000000","borrows":"2905104690478400000000","calculatedBorrows":"0"}
