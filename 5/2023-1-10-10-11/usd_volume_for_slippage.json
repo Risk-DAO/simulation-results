@@ -11,7 +11,7 @@
       "llc": 1.0999999825075184,
       "route": "MELD->ADA->iUSD"
     },
-    "Min": {
+    "MIN": {
       "volume": 80814.35700840986,
       "llc": 1.0999999890618517,
       "route": "MELD->ADA->Min"
