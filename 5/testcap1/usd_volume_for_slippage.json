@@ -1,0 +1,473 @@
+{
+  "json_time": 1675157048,
+  "MELD": {
+    "HOSKY": {
+      "volume": 26046.875,
+      "llc": 1.100002100021791,
+      "route": "MELD->ADA->HOSKY"
+    },
+    "iUSD": {
+      "volume": 66178.12499999999,
+      "llc": 1.1000000368218066,
+      "route": "MELD->ADA->iUSD"
+    },
+    "MIN": {
+      "volume": 103771.875,
+      "llc": 1.0999998158527677,
+      "route": "MELD->ADA->MIN"
+    },
+    "WRT": {
+      "volume": 48259.375000000015,
+      "llc": 1.099999099075709,
+      "route": "MELD->ADA->WRT"
+    },
+    "COPI": {
+      "volume": 35681.87499999999,
+      "llc": 1.0999985319097279,
+      "route": "MELD->ADA->COPI"
+    },
+    "C3": {
+      "volume": 41163.125,
+      "llc": 1.0999999387842232,
+      "route": "MELD->ADA->C3"
+    },
+    "iBTC": {
+      "volume": 22219.375000000004,
+      "llc": 1.0999998679909986,
+      "route": "MELD->ADA->iBTC"
+    },
+    "WMT": {
+      "volume": 85254.37499999999,
+      "llc": 1.0999997505340202,
+      "route": "MELD->ADA->WMT"
+    },
+    "ADA": {
+      "volume": 120826.87499999996,
+      "llc": 1.0999998562920417,
+      "route": "MELD->ADA"
+    }
+  },
+  "HOSKY": {
+    "MELD": {
+      "volume": 26045.625,
+      "llc": 1.0999999643313443,
+      "route": "HOSKY->ADA->MELD"
+    },
+    "iUSD": {
+      "volume": 27060.625,
+      "llc": 1.1000010494315735,
+      "route": "HOSKY->ADA->iUSD"
+    },
+    "MIN": {
+      "volume": 31763.125,
+      "llc": 1.0999992328350157,
+      "route": "HOSKY->ADA->MIN"
+    },
+    "WRT": {
+      "volume": 23494.374999999996,
+      "llc": 1.0999977596600234,
+      "route": "HOSKY->ADA->WRT"
+    },
+    "COPI": {
+      "volume": 20055.625,
+      "llc": 1.100002619115817,
+      "route": "HOSKY->ADA->COPI"
+    },
+    "C3": {
+      "volume": 21676.875,
+      "llc": 1.10000191028197,
+      "route": "HOSKY->ADA->C3"
+    },
+    "iBTC": {
+      "volume": 14961.875,
+      "llc": 1.0999988219392962,
+      "route": "HOSKY->ADA->iBTC"
+    },
+    "WMT": {
+      "volume": 29784.375,
+      "llc": 1.1000006212788587,
+      "route": "HOSKY->ADA->WMT"
+    },
+    "ADA": {
+      "volume": 33196.875,
+      "llc": 1.0999996369739966,
+      "route": "HOSKY->ADA"
+    }
+  },
+  "iUSD": {
+    "MELD": {
+      "volume": 66179.375,
+      "llc": 1.1000002257744792,
+      "route": "iUSD->ADA->MELD"
+    },
+    "HOSKY": {
+      "volume": 27061.875,
+      "llc": 1.1000015117803301,
+      "route": "iUSD->ADA->HOSKY"
+    },
+    "MIN": {
+      "volume": 122013.125,
+      "llc": 1.0999998161641402,
+      "route": "iUSD->ADA->MIN"
+    },
+    "WRT": {
+      "volume": 51865.625,
+      "llc": 1.1000002385384142,
+      "route": "iUSD->ADA->WRT"
+    },
+    "COPI": {
+      "volume": 37615.625,
+      "llc": 1.0999995902893058,
+      "route": "iUSD->ADA->COPI"
+    },
+    "C3": {
+      "volume": 43758.125,
+      "llc": 1.1000008511048145,
+      "route": "iUSD->ADA->C3"
+    },
+    "iBTC": {
+      "volume": 22954.375,
+      "llc": 1.100001817010861,
+      "route": "iUSD->ADA->iBTC"
+    },
+    "WMT": {
+      "volume": 97191.875,
+      "llc": 1.09999997311786,
+      "route": "iUSD->ADA->WMT"
+    },
+    "ADA": {
+      "volume": 146293.125,
+      "llc": 1.0999999924428179,
+      "route": "iUSD->ADA"
+    }
+  },
+  "MIN": {
+    "MELD": {
+      "volume": 103773.12499999999,
+      "llc": 1.1000002084245932,
+      "route": "MIN->ADA->MELD"
+    },
+    "HOSKY": {
+      "volume": 31764.375000000004,
+      "llc": 1.0999998987247745,
+      "route": "MIN->ADA->HOSKY"
+    },
+    "iUSD": {
+      "volume": 122011.875,
+      "llc": 1.0999997136875577,
+      "route": "MIN->ADA->iUSD"
+    },
+    "WRT": {
+      "volume": 72426.87500000001,
+      "llc": 1.1000006691563775,
+      "route": "MIN->ADA->WRT"
+    },
+    "COPI": {
+      "volume": 47366.87499999999,
+      "llc": 1.1000009350539304,
+      "route": "MIN->ADA->COPI"
+    },
+    "C3": {
+      "volume": 57536.874999999985,
+      "llc": 1.0999995430807759,
+      "route": "MIN->ADA->C3"
+    },
+    "iBTC": {
+      "volume": 26250.625,
+      "llc": 1.1000021069647934,
+      "route": "MIN->ADA->iBTC"
+    },
+    "WMT": {
+      "volume": 207716.87499999997,
+      "llc": 1.0999998080109656,
+      "route": "MIN->ADA->WMT"
+    },
+    "ADA": {
+      "volume": 735050.6249999999,
+      "llc": 1.1000000483359398,
+      "route": "MIN->ADA"
+    }
+  },
+  "WRT": {
+    "MELD": {
+      "volume": 48259.37500000001,
+      "llc": 1.0999995161938723,
+      "route": "WRT->ADA->MELD"
+    },
+    "HOSKY": {
+      "volume": 23495.625,
+      "llc": 1.1000007818327342,
+      "route": "WRT->ADA->HOSKY"
+    },
+    "iUSD": {
+      "volume": 51864.375000000015,
+      "llc": 1.099999997395656,
+      "route": "WRT->ADA->iUSD"
+    },
+    "MIN": {
+      "volume": 72425.625,
+      "llc": 1.1000002244498206,
+      "route": "WRT->ADA->MIN"
+    },
+    "COPI": {
+      "volume": 31061.875,
+      "llc": 1.1000009781098994,
+      "route": "WRT->ADA->COPI"
+    },
+    "C3": {
+      "volume": 35133.12499999999,
+      "llc": 1.0999997265947254,
+      "route": "WRT->ADA->C3"
+    },
+    "iBTC": {
+      "volume": 20335.625000000004,
+      "llc": 1.0999974370234962,
+      "route": "WRT->ADA->iBTC"
+    },
+    "WMT": {
+      "volume": 62891.87500000001,
+      "llc": 1.0999993259691014,
+      "route": "WRT->ADA->WMT"
+    },
+    "ADA": {
+      "volume": 80339.37500000001,
+      "llc": 1.1000001001406554,
+      "route": "WRT->ADA"
+    }
+  },
+  "COPI": {
+    "MELD": {
+      "volume": 35681.875,
+      "llc": 1.0999996797155576,
+      "route": "COPI->ADA->MELD"
+    },
+    "HOSKY": {
+      "volume": 20055.625,
+      "llc": 1.1000015816930784,
+      "route": "COPI->ADA->HOSKY"
+    },
+    "iUSD": {
+      "volume": 37614.37499999999,
+      "llc": 1.0999992577164546,
+      "route": "COPI->ADA->iUSD"
+    },
+    "MIN": {
+      "volume": 47365.625,
+      "llc": 1.1000003989104403,
+      "route": "COPI->ADA->MIN"
+    },
+    "WRT": {
+      "volume": 31061.875,
+      "llc": 1.1000017088084015,
+      "route": "COPI->ADA->WRT"
+    },
+    "C3": {
+      "volume": 27959.375,
+      "llc": 1.0999994718829371,
+      "route": "COPI->ADA->C3"
+    },
+    "iBTC": {
+      "volume": 17708.125000000004,
+      "llc": 1.1000029153798772,
+      "route": "COPI->ADA->iBTC"
+    },
+    "WMT": {
+      "volume": 43094.374999999985,
+      "llc": 1.100000493694394,
+      "route": "COPI->ADA->WMT"
+    },
+    "ADA": {
+      "volume": 50626.87500000001,
+      "llc": 1.1000009756886673,
+      "route": "COPI->ADA"
+    }
+  },
+  "C3": {
+    "MELD": {
+      "volume": 41163.12499999999,
+      "llc": 1.1000007133102767,
+      "route": "C3->ADA->MELD"
+    },
+    "HOSKY": {
+      "volume": 21676.874999999996,
+      "llc": 1.100000499551793,
+      "route": "C3->ADA->HOSKY"
+    },
+    "iUSD": {
+      "volume": 43756.87500000001,
+      "llc": 1.1000005652712832,
+      "route": "C3->ADA->iUSD"
+    },
+    "MIN": {
+      "volume": 57535.625,
+      "llc": 1.0999990536904534,
+      "route": "C3->ADA->MIN"
+    },
+    "WRT": {
+      "volume": 35133.125,
+      "llc": 1.1000000839748278,
+      "route": "C3->ADA->WRT"
+    },
+    "COPI": {
+      "volume": 27959.375,
+      "llc": 1.0999990985837726,
+      "route": "C3->ADA->COPI"
+    },
+    "iBTC": {
+      "volume": 18959.375,
+      "llc": 1.0999990007481961,
+      "route": "C3->ADA->iBTC"
+    },
+    "WMT": {
+      "volume": 51353.12499999999,
+      "llc": 1.100000312172289,
+      "route": "C3->ADA->WMT"
+    },
+    "ADA": {
+      "volume": 62420.624999999985,
+      "llc": 1.100000102774483,
+      "route": "C3->ADA"
+    }
+  },
+  "iBTC": {
+    "MELD": {
+      "volume": 22218.125,
+      "llc": 1.0999976493828707,
+      "route": "iBTC->ADA->MELD"
+    },
+    "HOSKY": {
+      "volume": 14961.875,
+      "llc": 1.0999994836429388,
+      "route": "iBTC->ADA->HOSKY"
+    },
+    "iUSD": {
+      "volume": 22953.125,
+      "llc": 1.1000012718440195,
+      "route": "iBTC->ADA->iUSD"
+    },
+    "MIN": {
+      "volume": 26249.374999999996,
+      "llc": 1.1000013582706012,
+      "route": "iBTC->ADA->MIN"
+    },
+    "WRT": {
+      "volume": 20335.625000000004,
+      "llc": 1.099999866794858,
+      "route": "iBTC->ADA->WRT"
+    },
+    "COPI": {
+      "volume": 17706.875000000004,
+      "llc": 1.0999982576443958,
+      "route": "iBTC->ADA->COPI"
+    },
+    "C3": {
+      "volume": 18959.375,
+      "llc": 1.1000010731732863,
+      "route": "iBTC->ADA->C3"
+    },
+    "WMT": {
+      "volume": 24883.124999999996,
+      "llc": 1.1000014609766096,
+      "route": "iBTC->ADA->WMT"
+    },
+    "ADA": {
+      "volume": 27220.625,
+      "llc": 1.1000011670825542,
+      "route": "iBTC->ADA"
+    }
+  },
+  "WMT": {
+    "MELD": {
+      "volume": 85255.625,
+      "llc": 1.1000005879980481,
+      "route": "WMT->ADA->MELD"
+    },
+    "HOSKY": {
+      "volume": 29785.625000000004,
+      "llc": 1.1000017321292535,
+      "route": "WMT->ADA->HOSKY"
+    },
+    "iUSD": {
+      "volume": 97190.62500000003,
+      "llc": 1.0999998444621082,
+      "route": "WMT->ADA->iUSD"
+    },
+    "MIN": {
+      "volume": 207716.87499999997,
+      "llc": 1.1000000173943365,
+      "route": "WMT->ADA->MIN"
+    },
+    "WRT": {
+      "volume": 62893.12499999998,
+      "llc": 1.1000002156002604,
+      "route": "WMT->ADA->WRT"
+    },
+    "COPI": {
+      "volume": 43094.375,
+      "llc": 1.0999988635894045,
+      "route": "WMT->ADA->COPI"
+    },
+    "C3": {
+      "volume": 51353.124999999985,
+      "llc": 1.0999990553831587,
+      "route": "WMT->ADA->C3"
+    },
+    "iBTC": {
+      "volume": 24883.124999999996,
+      "llc": 1.09999813177047,
+      "route": "WMT->ADA->iBTC"
+    },
+    "ADA": {
+      "volume": 289528.125,
+      "llc": 1.1000000105262988,
+      "route": "WMT->ADA"
+    }
+  },
+  "ADA": {
+    "MELD": {
+      "volume": 120828.12500000001,
+      "llc": 1.0999999597765338,
+      "route": "ADA->MELD"
+    },
+    "HOSKY": {
+      "volume": 33198.124999999985,
+      "llc": 1.1000000139172634,
+      "route": "ADA->HOSKY"
+    },
+    "iUSD": {
+      "volume": 146291.875,
+      "llc": 1.099999906991873,
+      "route": "ADA->iUSD"
+    },
+    "MIN": {
+      "volume": 735051.875,
+      "llc": 1.1000000653538855,
+      "route": "ADA->MIN"
+    },
+    "WRT": {
+      "volume": 80340.625,
+      "llc": 1.1000002558210116,
+      "route": "ADA->WRT"
+    },
+    "COPI": {
+      "volume": 50626.87500000001,
+      "llc": 1.0999990002071853,
+      "route": "ADA->COPI"
+    },
+    "C3": {
+      "volume": 62421.87499999998,
+      "llc": 1.1000003031558718,
+      "route": "ADA->C3"
+    },
+    "iBTC": {
+      "volume": 27221.875000000007,
+      "llc": 1.100001626812598,
+      "route": "ADA->iBTC"
+    },
+    "WMT": {
+      "volume": 289529.375,
+      "llc": 1.100000053711058,
+      "route": "ADA->WMT"
+    }
+  }
+}
