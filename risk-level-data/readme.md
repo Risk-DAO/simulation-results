@@ -5,7 +5,7 @@ Here you can find the risk level data displayed on Risk DAO's bad debt dashboard
 
 # Files
 
-protocols_day_averages contains the latest average risk value per protocol, computed with 30 days liquidity and volatility values.
+protocols_day_averages contains the latest weighted average risk value per protocol, computed with 30 days liquidity and volatility values.
 
 
 The protocol specific files' structure is:
