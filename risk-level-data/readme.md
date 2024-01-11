@@ -8,7 +8,7 @@ The files' structure is:
 ```json
 {
   "protocolAverageHistory": {
-    "UnixTimeStamp": 'RiskValue'
+    "UnixTimeStamp": "RiskValue"
   },
   "VaultMarketWhatever": {
     "Collateral": {
