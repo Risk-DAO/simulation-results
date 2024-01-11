@@ -5,7 +5,7 @@ Here you can find the risk level data displayed on Risk DAO's bad debt dashboard
 
 # Files
 The files' structure is:
-```json
+```
 {
   "protocolAverageHistory": {
     "UnixTimeStamp": "RiskValue"
@@ -24,7 +24,7 @@ The files' structure is:
 ```
 For instance, in the following data we can see that for the WETH vault / wstETH collateral, the average risk level over the last 3 days for the 30 days average volatility and the 30 days average liquidity was 3.356874388423344.
 
-```json
+```
 {
   "protocolAverageHistory": {
     "1704897577831": 4.96,
