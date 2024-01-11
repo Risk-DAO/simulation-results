@@ -14,7 +14,7 @@ The files' structure is:
     "Collateral": {
       "numberOfDays_averageSpan": {
         "xDaysAverageVolatility": {
-          "xDaysAverageLiquidity": 'riskValue'
+          "xDaysAverageLiquidity": "riskValue"
         }
       }
     }
