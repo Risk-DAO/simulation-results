@@ -15,7 +15,7 @@ The protocol specific files' structure is:
     "UnixTimeStamp": "RiskValue"
   },
   "VaultMarketWhatever": {
-    "Collateral": {
+    "Collateral_marketID?": {
       "numberOfDays_averageSpan": {
         "xDaysAverageVolatility": {
           "xDaysAverageLiquidity": "riskValue"
@@ -36,7 +36,7 @@ For instance, in the following data we can see that for the WETH vault / wstETH 
     "1704724777831": 4.91
   },
   "WETH": {
-    "wstETH": {
+    "wstETH_0xc54d7acf14de29e0e5527cabd7a576506870346a78a11a6762e2cca66322ec41": {
       "3D_averageSpan": {
         "7": {
           "7": 3.295778471428988,
