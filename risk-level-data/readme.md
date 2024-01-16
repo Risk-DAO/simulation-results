@@ -79,7 +79,7 @@ For instance, in the following data we can see that for the market ID 0xc54d7acf
 ```
 
 ## Other files
-The protocol specific files' structure is:
+Other protocols specific files' structure is:
 ```
 {
   "protocolAverageHistory": {
